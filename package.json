@@ -1,0 +1,22 @@
+{
+  "name": "scratch-bot",
+  "version": "1.0.0",
+  "description": "Bot for scratching email:pass",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "Bot",
+    "tester",
+    "scratch",
+    "puppeteer"
+  ],
+  "author": "OECAPPS",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "puppeteer": "^22.10.0"
+  }
+}
